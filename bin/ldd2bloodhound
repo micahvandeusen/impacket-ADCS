@@ -1,0 +1,3 @@
+#!/opt/impacket-impacket_0_9_20/bin/python3
+from ldapdomaindump import convert
+convert.ldd2bloodhound()
